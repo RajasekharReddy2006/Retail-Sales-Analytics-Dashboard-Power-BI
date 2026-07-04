@@ -1,101 +1,153 @@
-# 📊 Retail Sales Analytics Dashboard | Power BI
+# 📊 Retail Sales Analytics Dashboard using Power BI
 
 ## 📌 Project Overview
 
-This project presents an interactive Retail Sales Analytics Dashboard built using Power BI. It provides valuable insights into sales performance, customer behavior, product trends, employee performance, and payment analysis.
+The **Retail Sales Analytics Dashboard** is an interactive Business Intelligence project developed using **Microsoft Power BI**. This dashboard helps analyze retail business performance through dynamic visualizations, KPI cards, and interactive reports.
 
-The dashboard is designed to help businesses make data-driven decisions through clear visualizations and KPIs.
+The project provides insights into sales performance, customer behavior, product performance, employee productivity, orders, payments, and refunds, enabling data-driven decision-making.
 
 ---
 
-## 🚀 Features
+## 🎯 Project Objectives
 
-- Executive Summary Dashboard
-- Customer Analysis
-- Product Analysis
-- Orders & Payments Analysis
-- Employee Performance Analysis
-- Interactive Filters (Department)
-- KPI Cards
-- Charts, Tables, and Slicers
-- Professional Dashboard Design
+- Analyze retail sales performance.
+- Monitor customer behavior and purchasing trends.
+- Track product sales and stock levels.
+- Evaluate employee performance.
+- Analyze payment methods and refund trends.
+- Build an interactive business dashboard using Power BI.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- Microsoft Power BI
+- Microsoft Power BI Desktop
 - Power Query
-- DAX
+- DAX (Data Analysis Expressions)
 - Microsoft Excel
 
 ---
 
-## 📈 Dashboard Pages
+## 📂 Dataset
 
-### 1. Executive Summary
+The project uses a relational retail sales dataset consisting of **8 interconnected tables**.
+
+### Tables
+
+- Customer
+- Product
+- Category
+- Employee
+- Orders
+- Order_Details
+- Payment
+- Return_Order
+
+---
+
+## 📊 Dashboard Pages
+
+### 1️⃣ Executive Summary
+
 - Total Sales
 - Total Orders
 - Total Customers
 - Total Products
+- Average Order Value
+- Total Refund
 - Monthly Sales Trend
 - Sales by Category
-- Payment Distribution
+- Payment Method Distribution
 
-### 2. Customer Analysis
-- Customer Distribution
+---
+
+### 2️⃣ Customer Analysis
+
+- Customers by City
+- Member Type Distribution
 - Customer-wise Sales
 - Top Customers
-- Customers by City
 
-### 3. Product Analysis
-- Category-wise Sales
+---
+
+### 3️⃣ Product Analysis
+
 - Top Selling Products
+- Category-wise Sales
 - Product Ratings
-- Stock Details
+- Product Stock Analysis
 
-### 4. Orders & Payments
+---
+
+### 4️⃣ Orders & Payments
+
 - Order Status
-- Payment Methods
-- Refund Analysis
 - Monthly Orders
+- Payment Method Distribution
+- Refund Analysis
 
-### 5. Employee Performance
+---
+
+### 5️⃣ Employee Performance
+
 - Sales by Employee
 - Orders Handled
 - Department Performance
+- Employee Performance Report
 
 ---
 
-## 📊 Key Insights
+## 📈 Key Performance Indicators (KPIs)
 
-- Electronics generated the highest sales.
-- UPI was the most preferred payment method.
-- Sales department achieved the highest revenue.
-- Top customers contributed significantly to total sales.
-- Employee performance can be tracked using interactive dashboards.
+- Total Sales
+- Total Orders
+- Total Customers
+- Total Products
+- Average Order Value
+- Total Refund
+- Return Count
 
 ---
 
-## 📂 Project Files
+## ✨ Features
 
-- Retail Sales Analytics Dashboard.pbix
-- Retail Sales Dataset.xlsx
-- Dashboard Screenshots
+- Interactive Dashboard
+- KPI Cards
+- Dynamic Charts
+- Slicers and Filters
+- Business Insights
+- Professional Dashboard Design
+- Data Modeling
+- DAX Calculations
+
+---
+
+## 📁 Project Files
+
+- Retail_Sales_Analytics_Dashboard.pbix
+- Retail_Sales_Dataset.xlsx
 - README.md
+- LICENSE
 
 ---
 
-## 🎯 Skills Demonstrated
+## 💡 Skills Demonstrated
 
+- Power BI Dashboard Development
 - Data Cleaning
 - Data Modeling
-- DAX Measures
 - Power Query
-- Dashboard Design
+- DAX Measures
 - Business Intelligence
 - Data Visualization
 - KPI Reporting
+- Interactive Dashboard Design
+
+---
+
+## 🎓 Project Outcome
+
+Developed an interactive dashboard that enables businesses to monitor retail sales performance, customer insights, product trends, payment methods, refunds, and employee performance through meaningful visualizations and key performance indicators.
 
 ---
 
@@ -103,16 +155,30 @@ The dashboard is designed to help businesses make data-driven decisions through 
 
 **Rajasekhar Reddy**
 
-B.Tech – CSE (Data Science)
+**B.Tech – Computer Science and Engineering (Data Science)**
 
-### Skills
+### Technical Skills
 
 - Power BI
+- DAX
+- Power Query
 - SQL
+- Oracle Database
 - Python
-- Excel
+- Microsoft Excel
 - Data Analytics
 
 ---
 
-⭐ If you found this project useful, please consider giving it a Star.
+## ⭐ GitHub Repository
+
+If you found this project useful, please consider giving it a ⭐ Star.
+
+---
+
+## 📬 Contact
+
+**Rajasekhar Reddy**
+
+- LinkedIn: *(https://www.linkedin.com/in/naru-rajasekhar-reddy-061006327)*
+- GitHub: *(https://github.com/RajasekharReddy2006)*
